@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  margin-top: 2rem;
+  margin-bottom: 10px;
+  width: 100%;
+  border: 2px solid;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.first-h1 {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+#libraryBooks {
+  width: 70%;
+  margin: 1rem auto;
+  border: 1px solid rgb(147, 148, 148);
+  border-radius: 5px;
+}
+
+.books {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.books p {
+  flex: 1;
+}
+
+.books:nth-child(even) {
+  background: rgb(229, 229, 229);
+  border-radius: 5px;
+}
+
+form {
+  width: 40%;
+  margin: 5rem auto;
+  display: none;
+}
+
+form h1 {
+  text-align: center;
+}
+
+button {
+  box-shadow: 3px 5px 5px black;
+  font-weight: bold;
+}
+
+.submit-btn {
+  float: right;
+  padding: 0.3rem 1rem;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid black;
+  width: 70%;
+  margin: 2rem auto;
+  padding-left: 1rem;
+  border-radius: 5px;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 50%;
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.nav-list li:nth-child(2) {
+  border-left: 2px solid;
+  border-right: 2px solid;
+  padding: 1.2rem 7rem;
+}
+
+.date {
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+footer {
+  position: absolute;
+  bottom: 2rem;
+  width: 100%;
+  padding: 2rem;
+  font-size: 15px;
+}
+
+.footer p {
+  font-weight: bold;
+  text-align: center;
+}
+
+#contact {
+  width: 40%;
+  margin: 4rem auto;
+  display: none;
+}
+
+#contact h1 {
+  text-align: center;
+}
+
+#contact p {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#contact ul {
+  margin-left: 4rem;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#contact ul li {
+  margin-bottom: 1rem;
+}
