@@ -8,6 +8,44 @@
     <title>Awesome Books ES6</title>
   </head>
   <body>
+    <nav class="nav">
+      <h2 class="nav-logo">Awesome Books 📚</h2>
+      <ul class="nav-list">
+        <li class="listone">Books 📓</li>
+        <li class="listtwo">add new ➕</li>
+        <li class="listthree">Contact ✉️</li>
+      </ul>
+    </nav>
+
+    <div class="date"><span>Date</span></div>
+
+    <div id="booksContainer">
+      <h1 class="first-h1">All awesome books</h1>
+      <div id="libraryBooks" data-book></div>
+    </div>
+    <div id="contact">
+      <h1>Contact Information</h1>
+      <p>
+        Do you have any question or concern. Or just want to say hello? Kindly
+        reach out to us using the following medium.
+      </p>
+      <ul>
+        <li>Our Email:</li>
+        <li>Our Phone Number:</li>
+        <li>Our Address:</li>
+      </ul>
+    </div>
+    <form action="#" id="myForm">
+      <h1>Add a new book</h1>
+      <input type="text" placeholder="Title" id="titleName" required />
+      <br />
+      <input type="text" placeholder="Author" id="authorName" required />
+      <br />
+      <button type="submit" class="submit-btn">Add</button>
+    </form>
+    <footer class="footer">
+      <p>copyright c 2023, all rights reserved</p>
+    </footer>
     <script type="module" src="index.js"></script>
   </body>
 </html>

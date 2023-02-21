@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Adholah96/Awesome-books-E6/issues"
   },
-  "homepage": "https://github.com/Adholah96/Awesome-books-E6#readme"
+  "homepage": "https://github.com/Adholah96/Awesome-books-E6#readme",
+  "dependencies": {
+    "luxon": "^3.2.1"
+  }
 }

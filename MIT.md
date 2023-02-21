@@ -1,4 +1,4 @@
-## Copyright 2023, heldricks adhola and Yidnekachew Kassahun
+## Copyright 2023, heldricks adhola
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this awesome books and associated documentation files, to deal in the awesome books without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the awesome books, and to permit persons to whom the awesome books is furnished to do so, subject to the following conditions:
 

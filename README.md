@@ -78,9 +78,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- > Describe between 1-3 key features of the application. -->
 
-- **Object Constructors**
+- **Modules**
 - **Local Storage**
-- **Object Oriented Programming**
+- **Javascript ES6**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,12 +145,6 @@ To run the project, execute the following command:
 - GitHub: [@adholah96](https://github.com/Adholah96)
 - Twitter: [@nerdy*me*](https://twitter.com/nerdy_me_)
 - LinkedIn: [heldricks-arthur](https://linkedin.com/in/heldricks-arthur-59ab2411a)
-
-👤 **Yidnekachew Kassahun**
-
-- GitHub: [Yidne](https://github.com/Yidnekachew-cmd)
-- Twitter: [Yidne](https://twitter.com/Yidnekassahun)
-- LinkedIn: [Yidne](https://www.linkedin.com/in/yidnekachew-kassahun-2b817a24b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
